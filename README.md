@@ -1,6 +1,6 @@
 # fantasy game implementation
 
-Fantasy game for Toptal project
+Fantasy game for ... project
 
 [//]: # (## Getting started)
 
