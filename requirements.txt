@@ -15,8 +15,8 @@ django-countries==7.2.1
 django-filter==21.1
 django-redis==5.1.0
 django-timezone-field==4.2.1
-djangorestframework==3.12.4
-djangorestframework-jwt==1.11.0
+djangorestframework
+djangorestframework-jwt
 importlib-metadata==4.8.2
 kombu==5.2.2
 Markdown==3.3.6
@@ -25,7 +25,6 @@ names==0.3.0
 pathspec==0.9.0
 platformdirs==2.4.0
 prompt-toolkit==3.0.23
-psycopg2==2.9.2
 PyJWT==2.3.0
 python-crontab==2.6.0
 python-dateutil==2.8.2
@@ -41,3 +40,4 @@ vine==5.0.0
 wcwidth==0.2.5
 wrapt==1.13.3
 zipp==3.6.0
+psycopg2
