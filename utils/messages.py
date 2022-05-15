@@ -14,3 +14,6 @@ ACTIVE_TRANSFER_EXISTS_WITH_THIS_PLAYER = (
 YOU_CANNOT_SELL_THIS_PLAYER = "You cannot sell this player"
 NOT_ENOUGH_MONEY = "Your team does not have enough money to buy the player"
 NOT_YOUR_PLAYER = "You can put only your players to transfer list"
+
+
+
